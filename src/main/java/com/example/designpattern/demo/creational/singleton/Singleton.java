@@ -1,4 +1,4 @@
-package com.example.designpattern.demo.singleton;
+package com.example.designpattern.demo.creational.singleton;
 
 import com.example.designpattern.demo.exception.AlreadyExistException;
 
